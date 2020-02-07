@@ -1,0 +1,23 @@
+{
+  "name": "tocapilibraryts",
+  "version": "1.0.0",
+  "description": "TeamOrgChart API Library",
+  "main": "dist/teamOrgChartApi.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeamOrgChart/TocApiLibraryTs.git"
+  },
+  "author": "TeamImprover",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TeamOrgChart/TocApiLibraryTs/issues"
+  },
+  "homepage": "https://github.com/TeamOrgChart/TocApiLibraryTs#readme",
+  "dependencies": {
+    "@azure/ms-rest-js": "^2.0.5"
+  }
+}
